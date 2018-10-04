@@ -1,3 +1,4 @@
+/*image style*/
 img {
     max-width: 100%;
     height: auto;
@@ -8,6 +9,8 @@ img {
     margin-right: auto;
     width: 100%;
 }
+
+/*divs style*/
 
 #intro {
 	text-align: center;
@@ -36,6 +39,8 @@ h2 {
 	background-color: #eaeaea;
 }
 
+/*header and paragraph styles*/
+
 h3 {
 	color: #ff8000;
 }
@@ -49,6 +54,8 @@ h3 {
 	background-color: #c3f6fe;
 }
 
+/*button styles*/
+
 #btn2 {
 	width: 200px;
 	height: 60px;
@@ -59,6 +66,8 @@ h3 {
 	border-radius: 12px;
 	color: orange;
 }
+
+/*navbar and links styles*/
 
 nav {
 	text-align: center;
