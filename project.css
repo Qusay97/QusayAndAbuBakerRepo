@@ -1,0 +1,77 @@
+img {
+    max-width: 100%;
+    height: auto;
+    padding: 10px 0px 0px 0px;
+    opacity: 0.9;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+#intro {
+	text-align: center;
+	color: #00cccc;
+	background-color: #eaeaea;
+}
+
+h2 {
+	text-align: center;
+	color: #87cefa;
+	background-color: #c3f6fe;
+}
+
+#chefs {
+	text-align: center;
+	background-color: #eaeaea;
+}
+
+#foods {
+	text-align: center;
+	background-color: #eaeaea;
+}
+
+#type {
+	text-align: center;
+	background-color: #eaeaea;
+}
+
+h3 {
+	color: #ff8000;
+}
+
+#pfood {
+	color: #800080;
+}
+
+#btn3 {
+	text-align: center;
+	background-color: #c3f6fe;
+}
+
+#btn2 {
+	width: 200px;
+	height: 60px;
+}
+
+
+#btn2,#btn {
+	border-radius: 12px;
+	color: orange;
+}
+
+nav {
+	text-align: center;
+	background-color: #eaeaea;
+	padding: 20px;
+	margin-top: 10px;
+	font-family: helveteca;
+}
+
+a {
+	padding: 20px;
+}
+
+a:visited { 
+    color: #008000;
+}
